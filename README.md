@@ -4,13 +4,20 @@ proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
+* [Tecnologias utilizadas](#intereses)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Samuel Chichande Guerrero
+* Ocupación: Estudiante de ingenieria en ciencias computaciónales
+* Lugar de residencia: Ecuador - Guayaquil
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
+## Tecnologias utilizadas
+* Java
+* Python
+* MySQL
+* C
+* C++
 ## Intereses
 * [Lista de tus intereses]
