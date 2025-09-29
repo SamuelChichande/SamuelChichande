@@ -4,7 +4,7 @@ proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
-* [Tecnologias utilizadas](#intereses)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Samuel Chichande Guerrero
