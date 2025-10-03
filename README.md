@@ -3,7 +3,6 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
-* [Proyectos](#proyectos)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Intereses](#intereses)
 ## Información personal
@@ -11,8 +10,6 @@ proyectos y mis intereses.
 * Ocupación: Estudiante de ingenieria en ciencias computaciónales
 * Lugar de residencia: Ecuador - Guayaquil
 * Sitio web: [Tu sitio web]
-## Proyectos
-* [Lista de tus proyectos]
 ## Tecnologias utilizadas
 * Java
 * Python
@@ -20,4 +17,6 @@ proyectos y mis intereses.
 * C
 * C++
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo de aplicaciones móviles con Flutter
+* Aprendizaje y práctica en Ciberseguridad
+* Desarrollo Frontend con HTML, CSS y JavaScript
