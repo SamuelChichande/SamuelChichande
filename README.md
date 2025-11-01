@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: Samuel Chichande Guerrero
 * Ocupación: Estudiante de ingenieria en ciencias computaciónales
 * Lugar de residencia: Ecuador - Guayaquil
-* Sitio web: [#información-personal](https://samuelchichande.github.io/Curriculum/)
+* Sitio web: [Mi sitio web](https://samuelchichande.github.io/Curriculum/)
 ## Tecnologias utilizadas
 * Java
 * Python
